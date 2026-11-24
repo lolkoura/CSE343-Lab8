@@ -1,0 +1,10 @@
+{
+  "name": "cse343-lab8",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mini Twitter REST API using Express and in-memory arrays",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "dependencies": { "express": "^4.21.2" },
+  "engines": { "node": ">=18" }
+}
